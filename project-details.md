@@ -5,11 +5,11 @@ OOP Project: Initial Plan Template
 Team Members
 ------------
 
-1270555 Sevak Deirmendjian (leader)
-1202640 Hayden Ball
-1230426 Thomas Cumming
-1208373 Aaron Bradley
-1204589 Connor Stuart
+1270555 Sevak Deirmendjian (leader)  
+1202640 Hayden Ball  
+1230426 Thomas Cumming  
+1208373 Aaron Bradley  
+1204589 Connor Stuart  
 
 
 Project Title
