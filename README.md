@@ -1,2 +1,2 @@
-voiceofgod
+Voice of God
 ==========
