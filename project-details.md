@@ -21,7 +21,7 @@ Project Description
 
 Briefly describe what your software will do. 
 
-Summarise your project idea as a 1-line title 
+Destroy a castle by throwing rocks from a catapult, controlled using your voice. 
 
 
 Minimum Requirements
