@@ -31,3 +31,15 @@ local.properties
 
 # PDT-specific
 .buildpath
+
+######
+# Below from https://raw.github.com/github/gitignore/master/Java.gitignore
+######
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+#####
