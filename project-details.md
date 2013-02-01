@@ -9,27 +9,29 @@ Team Members
 1202640 Hayden Ball  
 1230426 Thomas Cumming  
 1208373 Aaron Bradley  
-1204589 Connor Stuart  
+1204589 Connor Stuart
 
 
 Project Title
 -------------
 
+Voice of God
 
-Project Description 
+
+Project Description
 -------------------
 
-Briefly describe what your software will do. 
+Briefly describe what your software will do.
 
-Destroy a castle by throwing rocks from a catapult, controlled using your voice. 
+Destroy a castle by throwing rocks from a catapult, controlled using your voice.
 
 
 Minimum Requirements
 --------------------
 
-What are the minimum features/functionality that you propose to implement? 
-Additional Functionality 
+What are the minimum features/functionality that you propose to implement?
+Additional Functionality
 
-List potential additional features that could be implemented in addition to the minimum requirements, if 
-time permits. 
+List potential additional features that could be implemented in addition to the minimum requirements, if
+time permits.
 
